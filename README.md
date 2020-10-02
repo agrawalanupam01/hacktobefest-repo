@@ -1,2 +1,5 @@
 # hacktobefest-repo
-hacktoberfest repository for all to try out 
+
+### What is [Hacktoberfest](https://hacktoberfest.digitalocean.com/)?
+
+hacktoberfest repository for all to try out. 
